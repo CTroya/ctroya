@@ -1,5 +1,5 @@
 #  About Me:
-I'm currently working on web-development.<br>I'm looking to collaborate on all sorts of projects!<br>Im currently learning database modelling, as well as JavaScript, Php and postgreSQL, all on the Zend Framework 1<br>
+I'm currently working on Artificial Intelligence.<br>I'm looking to collaborate on all sorts of projects!<br>Im currently learning search problems, neural networks and logical inference models.<br>
 From Paraguay <br>
 
 #  Tech Stack:
